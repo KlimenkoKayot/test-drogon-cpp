@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+3c8f323b0b8ce29c01f1abb501e81e8e welcome.h

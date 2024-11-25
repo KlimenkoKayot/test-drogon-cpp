@@ -1,0 +1,6 @@
+/home/kayotklimenko/code/test_drogon/build/CMakeFiles/test_drogon.dir
+/home/kayotklimenko/code/test_drogon/build/CMakeFiles/edit_cache.dir
+/home/kayotklimenko/code/test_drogon/build/CMakeFiles/rebuild_cache.dir
+/home/kayotklimenko/code/test_drogon/build/test/CMakeFiles/test_drogon_test.dir
+/home/kayotklimenko/code/test_drogon/build/test/CMakeFiles/edit_cache.dir
+/home/kayotklimenko/code/test_drogon/build/test/CMakeFiles/rebuild_cache.dir
